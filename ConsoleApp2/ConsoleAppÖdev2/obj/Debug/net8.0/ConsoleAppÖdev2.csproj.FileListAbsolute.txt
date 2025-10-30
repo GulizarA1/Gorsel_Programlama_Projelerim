@@ -1,0 +1,14 @@
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\bin\Debug\net8.0\ConsoleAppÖdev2.exe
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\bin\Debug\net8.0\ConsoleAppÖdev2.deps.json
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\bin\Debug\net8.0\ConsoleAppÖdev2.runtimeconfig.json
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\bin\Debug\net8.0\ConsoleAppÖdev2.dll
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\bin\Debug\net8.0\ConsoleAppÖdev2.pdb
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.AssemblyInfoInputs.cache
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.AssemblyInfo.cs
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.csproj.CoreCompileInputs.cache
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.dll
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\refint\ConsoleAppÖdev2.dll
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.pdb
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ConsoleAppÖdev2.genruntimeconfig.cache
+C:\Users\Gülizar\Desktop\ConsoleAppÖdev2\ConsoleAppÖdev2\obj\Debug\net8.0\ref\ConsoleAppÖdev2.dll

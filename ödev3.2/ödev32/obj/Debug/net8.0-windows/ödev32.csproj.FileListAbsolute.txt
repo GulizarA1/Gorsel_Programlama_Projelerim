@@ -1,0 +1,16 @@
+C:\Users\Gülizar\Desktop\ödev32\ödev32\bin\Debug\net8.0-windows\ödev32.exe
+C:\Users\Gülizar\Desktop\ödev32\ödev32\bin\Debug\net8.0-windows\ödev32.deps.json
+C:\Users\Gülizar\Desktop\ödev32\ödev32\bin\Debug\net8.0-windows\ödev32.runtimeconfig.json
+C:\Users\Gülizar\Desktop\ödev32\ödev32\bin\Debug\net8.0-windows\ödev32.dll
+C:\Users\Gülizar\Desktop\ödev32\ödev32\bin\Debug\net8.0-windows\ödev32.pdb
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.Form1.resources
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.csproj.GenerateResource.cache
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.AssemblyInfoInputs.cache
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.AssemblyInfo.cs
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.csproj.CoreCompileInputs.cache
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.dll
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\refint\ödev32.dll
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.pdb
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ödev32.genruntimeconfig.cache
+C:\Users\Gülizar\Desktop\ödev32\ödev32\obj\Debug\net8.0-windows\ref\ödev32.dll

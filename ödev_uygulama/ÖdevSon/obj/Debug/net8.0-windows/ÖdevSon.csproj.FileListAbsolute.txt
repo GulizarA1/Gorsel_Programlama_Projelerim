@@ -1,0 +1,32 @@
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.csproj.GenerateResource.cache
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.AssemblyInfoInputs.cache
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.AssemblyInfo.cs
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.csproj.CoreCompileInputs.cache
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.exe
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.deps.json
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.runtimeconfig.json
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.pdb
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.Form1.resources
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\refint\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.pdb
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.genruntimeconfig.cache
+C:\Users\Gülizar\Desktop\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ref\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.csproj.GenerateResource.cache
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.AssemblyInfoInputs.cache
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.AssemblyInfo.cs
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.csproj.CoreCompileInputs.cache
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\refint\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.pdb
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.exe
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.deps.json
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.runtimeconfig.json
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.dll
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\bin\Debug\net8.0-windows\ÖdevSon.pdb
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.Form1.resources
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ÖdevSon.genruntimeconfig.cache
+C:\Users\Gülizar\Desktop\Görsel Programlama Ödevleri\ÖdevSon\ÖdevSon\obj\Debug\net8.0-windows\ref\ÖdevSon.dll

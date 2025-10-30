@@ -316,6 +316,41 @@ Fareyi bıraktığımda (MouseUp) düğmenin boyutu artık sabitleniyor ve daha 
 
 
 
+ 
+**Ödev Son || Soru 1-**
+-    Form oluşturulacak ve aşağıdaki nesnelerin kullanılması gerekmektedir.
+o    comvoBox
+o    listBox
+o    TextBox
+o    Button
+o    Label
+o    RadioButton
+o    CheckBox
+ComboBox’tan bir item seçilmesine bağlı olarak ikinci bir Combox’ta farklı item’laron gelmesi gerekiyor.(Ör: ComboBox’tan herhangi bir il seçildiğinde, o ilin ilçelerinin gelmesi gibi).
+Herbir comboBox için en az 10 tane item girilmelidir.
+Bu uygulamada string metotların kullanılması gerekmektedir.
++puan >>> veritabanı bağlantısı
 
+
+Cevap 1 – Açıklaması
+Bu ödevimde Windows Forms kullanarak basit bir form uygulaması hazırladım. Amacım, kullanıcıdan bazı temel bilgileri almak ve bu bilgileri listeleyip kaydedebilmekti.
+Formda kullandığım öğeler şunlar:
+•	TextBox: Kullanıcının ad ve soyadını girmesi için.
+•	ComboBox: İl ve ilçe seçimi için. İl seçimine bağlı olarak ikinci ComboBox’ta ilgili ilçeler listeleniyor. Bu sayede kullanıcı gerçek veriler üzerinden seçim yapabiliyor.
+•	RadioButton: Cinsiyet seçimi için. Erkek veya Kadın seçenekleri mevcut.
+•	CheckBox: Kullanıcının bilgilerini onaylaması için. Bu işaretlenmeden form listeye ekleme yapılmıyor.
+•	ListBox: Girilen tüm bilgileri liste halinde gösteriyor.
+•	Buttonlar: “Listeye Ekle” ile formdaki verileri ListBox’a ekleyebiliyoruz, “Dosyaya Kaydet” ile de tüm listeyi kisiler.txt dosyasına kaydedebiliyoruz.
+•	Label: Kullanıcıya durum bilgisini göstermek için.
+Bu projede dikkat ettiğim noktalar:
+•	String metotları kullanarak ad-soyad bilgisini temizleyip listeye ekledim.
+•	İl ve ilçe ComboBox’larını gerçek verilerle doldurdum.
+•	Formun boyutunu ve kontrollerin yerleşimini kullanıcı dostu olacak şekilde ayarladım.
+•	Buton ve ComboBox yazılarının görünmemesi gibi sorunları FlatStyle ve DropDownStyle ayarlarıyla çözdüm.
+•	Kodun çalışması için sadece bir tane Main metodu kullandım ve gereksiz dosyaları silerek hatasız çalışmasını sağladım.
+
+
+
+<img width="461" height="472" alt="image" src="https://github.com/user-attachments/assets/e11fefd6-072a-4e3b-957c-b9f33cd7a772" />
 
 

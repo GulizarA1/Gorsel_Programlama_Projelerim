@@ -7,6 +7,10 @@ Bu uygulamada aslında şehirler ve ilçeler sözlüğü benzeri bi  yapı oluş
 İlk olarak bir Hastable oluşturdum ve içine birkaç şehir ve ilçelerini ekledim. Mesela Antalya için ‘Konyaaltı, Lara, Kepez, Alanya’ gibi değerler verdim. Sonra kullanıcıdan sürekli şehir ismi alabilmek için bi while döngüsü kurdum. Kullanıcı şehir ismi giriyor, program önce bu şehrin sözlükte olup olmadığını ContainsKey ile kontrol ediyor. Eğer varsa ilçeleri ekrana yazdırıyor, yoksa ‘Bu şehir listede yok’ diye uyarı veriyor.
 Kullanıcı çıkmak isterse ‘q’ tuşuna basıyor, program da döngüyü kırıp kapanıyor. 
 
+<img width="931" height="482" alt="image" src="https://github.com/user-attachments/assets/acd695db-12fa-4736-9cf6-e48cde581ecf" />
+
+
+
 **Ödev 1 || Soru 2-**
 Bir string içerisindeki karakterlerin hepsinin farklı olup olmadığını aşağıda belirtilen yöntemle belirleyiniz. Sonra bir döngü içerisinde klavyeden string okuyarak sonuçları yazdırınız.
 
@@ -17,6 +21,9 @@ Sonra foreach (char c in input)) ile string’in her karakterini tek tek dolaş�
 Programda tekrar eden karakterleri bulmak için Hashtable içindeki değerleri saydırdım. Her karakteri eklerken, eğer daha önce Hashtable’da varsa değeri 1 artırdım. Yani aynı karakter birden fazla görünürse, değeri 1’den büyük oluyor. Daha sonra Hashtable’ı dolaşarak her karakterin değerine baktım; değeri 1’den büyük olan karakterler, tekrar eden karakterler olarak kabul edildi ve ekrana yazdırıldı. Böylece kullanıcı hem hangi karakterin tekrar ettiğini hem de kaç kez tekrar ettiğini görebiliyor.
 Eğer bir karakter 1’den fazla geçiyorsa, program ekrana "Karakter 'x' n kez tekrar ediyor" mesajını yazıyor. Eğer hiç tekrar eden karakter yoksa, "Tüm karakterler birbirinden farklı" mesajı gözüküyor.
 Programı sonsuz bir döngü içinde yaptım, böylece kullanıcı istediği kadar string deneyebiliyor. Çıkmak isterse sadece 'q' yazması yeterli.
+
+
+<img width="931" height="479" alt="image" src="https://github.com/user-attachments/assets/9e4b5cb1-436c-4857-92bf-3fc9b6f3a0bb" />
 
 
 
@@ -32,7 +39,8 @@ En sonunda, tüm karakterlerin sayacı sıfır mı diye kontrol ediyoruz. Eğer 
 Programı bir döngü içinde yaptım, böylece kullanıcı istediği kadar test yapabilir. Çıkmak isterse sadece 'q' yazması yeterli.”
 
 
- 
+ <img width="931" height="474" alt="image" src="https://github.com/user-attachments/assets/bd32d205-dc5e-4332-9ee1-410e1c57260e" />
+
  
 **Ödev 2 || Soru 1-** 
  

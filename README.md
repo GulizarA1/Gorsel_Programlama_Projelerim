@@ -353,4 +353,5 @@ Bu projede dikkat ettiğim noktalar:
 
 <img width="461" height="472" alt="image" src="https://github.com/user-attachments/assets/e11fefd6-072a-4e3b-957c-b9f33cd7a772" />
 
+<img width="454" height="466" alt="image" src="https://github.com/user-attachments/assets/a9662eeb-4117-4c70-b58f-900a5781c006" />
 

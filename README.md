@@ -105,6 +105,10 @@ o	Reset() ile başa dönebiliyoruz.
 
 
 
+<img width="931" height="463" alt="image" src="https://github.com/user-attachments/assets/5b175657-6ed5-409e-ac53-4d9e9986b002" />
+
+
+
  
 **Ödev 3 || Soru 1-**
  
@@ -117,6 +121,8 @@ Bu ödevde, 5x5 boyutunda bir “taş kaydırma” oyunu tasarladım. Toplam 24 
 Kod yapısında, düğmelerin matris şeklinde bir diziye yerleştirildiğini görebiliriz. Boş alanın koordinatları emptyRow ve emptyCol değişkenleriyle takip ediliyor. Düğmeye tıklandığında, tıklanan düğmenin boş alanın dört komşusundan biri olup olmadığı kontrol ediliyor. Eğer uygunsa, düğme boş alanla yer değiştiriyor ve boş alan yeni konumuna taşınıyor.
 Başlangıçta düğmeler rastgele diziliyor. Bu sayede kullanıcı oyunu çözmek için mantıksal hareketler yapmak zorunda kalıyor. Oyunun amacı, düğmeleri 1’den 24’e kadar sıralayıp boş alanı sağ alt köşede konumlandırmak.
 
+
+<img width="625" height="672" alt="image" src="https://github.com/user-attachments/assets/629138f6-0875-4597-b990-6f0c228ab754" />
 
 
 **Ödev 3 || Soru 2-**
@@ -132,6 +138,7 @@ Formun Resize olayı ile her boyut değişiminde LayoutButtons() tetikleniyor. H
 Karıştırma aşamasında, sırf metinleri değiş tokuş etmek yerine geçerli oyun hamleleriyle (boşluğun komşusunu boşluğa sürerek) belirli sayıda adım atıyorum. Bu yöntem her zaman çözülebilir bir başlangıç durumu garanti ediyor. Tıklama mantığında, tıklanan taşın boşluğun yan komşusu olup olmadığını kontrol edip, uygunsa taş–boşluk yer değiştiriyor; ardından LayoutButtons() ile ekran taze konumlandırılıyor. Çözüm kontrolü için IsSolved() fonksiyonu 1’den 24’e sıra dizilimini ve boşluğun sağ altta olmasını doğruluyor.
 
 
+<img width="931" height="734" alt="image" src="https://github.com/user-attachments/assets/c15d5aef-54a6-4044-8c09-f6a2e1032117" />
 
  
 **Ödev Uygulama || Soru 1-**
@@ -188,9 +195,14 @@ Resimler hem .png hem .jpg formatında olabilir. Önemli olan isimlerin kodla bi
 
 
 
+<img width="931" height="581" alt="image" src="https://github.com/user-attachments/assets/66204016-2c3c-4598-ad52-0f7fc7676945" />
 
  
- 
+
+ <img width="931" height="579" alt="image" src="https://github.com/user-attachments/assets/be62fe7d-2eed-49bb-b55c-1a7cdf2590a4" />
+
+
+
 **Uygulama 1 || Soru 1-**
 Bir ana pencere oluşturunuz. Sonra MouseClick mesajını işleyerek pencere içerisine tıklandığında tam tıklanan yer ortada kalacak biçimde 50x50'lik bir düğme yaratın. Düğmenlerin üzerinde sırasıyla 1, 2, 3 ... gibi sayıları yazdırınız.
 
@@ -207,6 +219,7 @@ Ve en son da düğmeyi formun içine ekledim:
 Bir de random sınıf tanımladım ve backcolor random renkler almasını istedim. Her buton oluştuğunda farklı bir renkte oluşmasını sağladım. Her tıklayışımızda farklı renkte bir buton oluşuyor. Butonların üstündeki sayılar ise siyah olacak şekilde tasarladım.
 
 
+<img width="931" height="556" alt="image" src="https://github.com/user-attachments/assets/feb23fb1-7163-4292-a767-36c9d2f761d3" />
 
 
  
@@ -220,7 +233,11 @@ Her düğmeye tıkladığımda o en üstteki düğme en alta geçiyor, yani yı�
 Ayrıca her düğme farklı renkte, böylece üst üste olsalar bile hangi düğmenin hangi sayı olduğunu rahatça görebiliyorum. Kodda Button sınıfını kullanıp hepsine aynı konum ve boyutu verdim, Random sınıfıyla da düğmelerin renklerini rastgele seçtim. Tıklama olayında SendToBack() metodunu kullanarak en üstteki düğmeyi en alta gönderiyorum. Yazıları beyaz yaptım ki kolay okunabilsin.
  
 
- 
+ <img width="634" height="369" alt="image" src="https://github.com/user-attachments/assets/7b4be887-c8da-4c0c-9d18-9e84707ac5a9" />
+
+ <img width="636" height="377" alt="image" src="https://github.com/user-attachments/assets/0c54b3b9-f517-4999-b88e-9b2bd8382de9" />
+
+
 **Uygulama 3 || Soru 1-**
 Uygulama Ödevi 3: Bir ana pencere oluşturunuz. Sonra MouseClick mesajını işleyerek pencere içerisine tıklandığında tam tıklanan yer ortada kalacak biçimde 50x50'lik bir düğme yaratın.
 Düğmenlerin üzerinde sırasıyla 1, 2, 3 ... gibi sayıları yazdırınız. Düğmelerin üzerine tıklandığında (Düğmenin Click eventini işleyeceksiniz) tıklanan düğme yok olsun.
@@ -238,6 +255,9 @@ Bir Windows Forms uygulaması yaptım. Programda amaç, fare ile tıklayınca o 
 7.	Her tıklamada yeni bir düğme oluşturuluyor ve numara artırılıyor, böylece sıralı bir sistem oluşuyor.
 
 
+<img width="449" height="335" alt="image" src="https://github.com/user-attachments/assets/503d93d0-92d2-4518-b599-e8dd5b1f4eec" />
+
+<img width="456" height="341" alt="image" src="https://github.com/user-attachments/assets/dc44c0ad-44c4-4883-a31d-99a73e609e41" />
 
 **Uygulama 4 || Soru 1-** 
 Uygulama Ödevi 3'ü öyle bir hale getiriniz ki yeni bir düğme yaratılacağı zaman bu yeni yaratılacak düğme silinen en düşük numaralı düğmenin numarasını alsın.
@@ -255,9 +275,12 @@ Düğmeye tıklanırsa:
 Bu uygulamada düğme ekleme/silme işlemleri yapılmış oluyor hem de numaralandırma sistemi en küçük boş numarayı yeniden kullanacak şekilde kontrol ediliyor.
 
 
+<img width="597" height="438" alt="image" src="https://github.com/user-attachments/assets/2592ae07-90a0-4ba3-8271-b55181377dc7" />
 
+<img width="600" height="427" alt="image" src="https://github.com/user-attachments/assets/75062f69-9a77-44cc-950c-8e5737fcd54a" />
 
- 
+ <img width="622" height="464" alt="image" src="https://github.com/user-attachments/assets/9801839f-2bef-43d4-a766-ea1fc4b0f545" />
+
 **Uygulama 5 || Soru 1-**
 Fare ile tıkladığımız zaman MouseDown mesajında farenin konumunu kaydediniz. Sonra fareyi hareket ettirip elinizi fareden çekince MouseUp mesajında yeni yeri elde ediniz. Sol üst köşesi eski yerde, sağ alt köşesi yeni yerde olacak şekilde düğme yaratınız.
 
@@ -272,6 +295,7 @@ Bu uygulamada MouseDown anında farenin konumunu start olarak kaydediyorum. Sonr
 Kullanıcı sola ya da yukarı doğru sürüklerse bu tanıma uymadığı için (genişlik veya yükseklik ≤ 0) buton oluşturmuyorum ve uyarı gösteriyorum. Butonu oluşturduktan sonra Controls.Add ile forma ekliyorum; tıklanınca kaldırmak için Click olayında Dispose() çağırıyorum. Böylece bas→bırak aralığında çizdiğim dikdörtgen ölçülerinde bir buton yaratmış oluyorum.
 
 
+<img width="931" height="611" alt="image" src="https://github.com/user-attachments/assets/5ab5929c-f2f9-409b-9a23-127ddbfe966f" />
 
  
 **Uygulama 6 || Soru 1-** 
@@ -287,6 +311,7 @@ Bu uygulamada fare ile sol tuşa tıkladığımda yeni bir düğme yaratıyorum.
 Fareyi sürüklediğimde MouseMove olayında düğmenin boyutunu değiştiriyorum; burada sol üst köşe sabit kalıyor, sağ alt köşe ise farenin konumuna göre ayarlanıyor. Yani fareyi yukarı veya sola çekerse düğmenin pozisyonunu da buna göre kaydırıyorum. 
 Fareyi bıraktığımda (MouseUp) düğmenin boyutu artık sabitleniyor ve daha fazla değişmiyor. Böylece tıklama, sürükleme ve bırakma olaylarını kullanarak düğmenin konumunu ve boyutunu kontrol edebiliyorum.
 
+<img width="931" height="697" alt="image" src="https://github.com/user-attachments/assets/591a9488-fe67-4a15-991a-3fbc5db80ac5" />
 
 
 

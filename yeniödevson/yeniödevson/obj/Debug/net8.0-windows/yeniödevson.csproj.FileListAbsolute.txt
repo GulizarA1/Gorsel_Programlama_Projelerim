@@ -1,0 +1,9 @@
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\yeniödevson.Program.resources
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\yeniödevson.csproj.GenerateResource.cache
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\yeniödevson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\yeniödevson.AssemblyInfoInputs.cache
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\yeniödevson.AssemblyInfo.cs
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\yeniödevson.csproj.CoreCompileInputs.cache
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\Odev.Form1.resources
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\OdevUygulama.Form1.resources
+C:\Users\Gülizar\Desktop\yeniödevson\yeniödevson\obj\Debug\net8.0-windows\OdevBasit.Form1.resources
